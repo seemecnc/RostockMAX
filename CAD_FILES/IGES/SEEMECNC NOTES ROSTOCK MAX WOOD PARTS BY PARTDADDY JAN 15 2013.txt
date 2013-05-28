@@ -1,0 +1,17 @@
+by PartDaddy
+Jan 25, 2013
+
+To our peers in the open source community...
+
+
+Here's the Rostock MAX IGES files so many of you requested. Yes, I know how hard it is to 
+reverse engineer STL files. 
+
+These IGES files should work for just about any CAD software. If they do not,
+email us and I will fixt them.
+
+
+~Steve Wygant aka PartDaddy
+
+SeeMeCNC
+
