@@ -16,6 +16,12 @@ http://www.geneb.org/rostock-max/Rostock-MAX-Assembly-Guide.pdf
 
 For firmware, use the repo http://github.com/seemecnc/RepetierMAX
 
+For the new EZStruder, which started shipping with all kits around 5/20/13, please see
+https://github.com/seemecnc/EZStruder
+
+
+
+
 
 
 
