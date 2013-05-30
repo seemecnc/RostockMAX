@@ -10,6 +10,10 @@ files for other parts.
 
 For the assembly manual, use the folder ASSEMBLY_MANUAL
 
+Note that github has problems with large files.  If you get the error, "Error: blob is too big" when
+trying to view the PDF file, you can obtain it here: 
+http://www.geneb.org/rostock-max/Rostock-MAX-Assembly-Guide.pdf
+
 For firmware, use the repo http://github.com/seemecnc/RepetierMAX
 
 
