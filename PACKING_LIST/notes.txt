@@ -1,11 +1,5 @@
+Using reveal.js from
 
-Using examples from below link to build slides
-
-
-
+http://slid.es
 
 
-
-
-
-http://net.tutsplus.com/tutorials/html-css-techniques/how-to-create-presentation-slides-with-html-and-css-2/
